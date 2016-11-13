@@ -1,0 +1,15 @@
+{
+  "name": "rko-site",
+  "version": "1.0.0",
+  "description": "RKO1195 Cydia Repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrusui/rko-site.git"
+  },
+  "author": "Avery Magnotti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/citrusui/rko-site/issues"
+  },
+  "homepage": "https://rko1995repo.com/cydia/"
+}
